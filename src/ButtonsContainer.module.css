@@ -1,0 +1,11 @@
+.buttonsContainer{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+}
